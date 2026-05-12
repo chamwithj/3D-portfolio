@@ -11,5 +11,6 @@ Currently, two official plugins are available:
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-![Uploading image.png…]()
+<img width="1901" height="865" alt="previwe" src="https://github.com/user-attachments/assets/99f9fbd4-0703-4986-afd2-65ab5977c882" />
+
 
